@@ -17,3 +17,10 @@
 * `delinq_2yrs`: Number of delinquencies in the past 2 years
 * `pub_rec`: Number of derogatory public records
 * `not_fully_paid`: Target variable (1 if the loan was not fully paid, 0 if it was)
+
+## Report
+
+### Abstract
+A loan default occurs when a borrower fails to make necessary payments on their debt. We will investigate quantitative factors which contribute to a borrower being unable to pay back a loan, using exploratory data analysis. We’ll use these findings to determine whether to approve future loan applications.
+
+
