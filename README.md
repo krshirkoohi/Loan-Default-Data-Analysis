@@ -23,4 +23,13 @@
 ### Abstract
 A loan default occurs when a borrower fails to make necessary payments on their debt. We will investigate quantitative factors which contribute to a borrower being unable to pay back a loan, using exploratory data analysis. We’ll use these findings to determine whether to approve future loan applications.
 
+### Aims and objectives
+The task is to perform an EDA on the data set to uncover patterns and trends. We’ll answer the following questions
+- What makes a good borrower versus a bad one?
+- What variables can we control to reduce the likelihood of defaults?
+- What are the limitations of the data?
 
+### Methodology
+A data set of 100 loans in CSV format was loaded into Python using the Pandas module. The data was cleaned, and transformed to remove redundant columns, and remaining columns were sorted into categorical and numerical sub sets `df_cat` and `df_num`. 
+
+Within these sub sets, the fundamental statistics were obtained, and univariate and bivariate analysis was conducted to investigate `not_fully_paid`, the status of a default on a loan.
