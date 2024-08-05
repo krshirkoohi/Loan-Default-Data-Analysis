@@ -58,6 +58,7 @@ Paid (n=90):
 | Revolving balance          | £17,189 | £0     | £128,000 |
 | Revolving utilisation rate | 33.9    | 0      | 93.4     |
 | FICO credit score          | 729     | 627    | 812      |
+
 Unpaid (n=10):
 | Measure                    | Average | Min    | Max     |
 |----------------------------|---------|--------|---------|
