@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan-Default-Data-Analysis
 
 ## Information
@@ -75,3 +76,6 @@ Unpaid (n=10):
 
 ![](CleanShot%202024-08-03%20at%208%E2%80%AF.04.00@2x.png)
 >Holding a public derogatory record, and credit enquiries within the past 6 months appear to have some influence on the borrower not being able to pay a loan. This is confirmed by the inverse being true by looking at the cases where the loan is paid.
+=======
+See `.ipynb` file for a detailed walk-through.
+>>>>>>> refs/remotes/origin/main
