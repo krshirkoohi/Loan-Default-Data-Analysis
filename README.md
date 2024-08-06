@@ -70,3 +70,8 @@ Unpaid (n=10):
 | Revolving balance          | £15,398 | £269   | £56,411 |
 | Revolving utilisation rate | 50.3    | 3.8    | 76.8    |
 | FICO credit score          | 701     | 667    | 772     |
+
+#### Data distribution 
+
+![](CleanShot%202024-08-03%20at%208%E2%80%AF.04.00@2x.png)
+>Holding a public derogatory record, and credit enquiries within the past 6 months appear to have some influence on the borrower not being able to pay a loan. This is confirmed by the inverse being true by looking at the cases where the loan is paid.
