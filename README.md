@@ -58,17 +58,3 @@ To reproduce the analysis:
 - **Revolving utilisation rate and DTI**: Negative correlation of -0.70.
 
 These insights indicate that certain factors, such as FICO score and interest rate, have a significant impact on whether a loan is paid or not.
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Customization:
-- **Overview**: Customize the overview to reflect any specific goals or outcomes of your analysis.
-- **Key Features**: Modify based on what the notebook specifically accomplishes.
-- **Installation**: Ensure the correct libraries and versions are listed.
-- **Key Insights**: Adjust based on the actual findings from your analysis.
-
-If you want more specific details to be included or have any additional sections you'd like to add, feel free to ask!
